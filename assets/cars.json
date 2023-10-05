@@ -1,0 +1,110 @@
+[
+    {
+        "model": "Toyota Camry",
+        "features": [
+            {
+                "capacity": 5,
+                "fuel_type": "Petrol",
+                "mileage": 15.2,
+                "suspension_type": "Automatic"
+            }
+        ],
+        "images": [
+            "https://i.ibb.co/6836nK6/Toyota-Camry1-jpg.jpg",
+            "https://i.ibb.co/HYq5wtC/Toyota-Camry2.jpg",
+            "https://i.ibb.co/WzT5Qpf/Toyota-Camry3.jpg"
+        ],
+        "price": 35000,
+        "edition": 2021
+    },
+    {
+        "model": "Honda Civic",
+        "features": [
+            {
+                "capacity": 5,
+                "fuel_type": "Petrol",
+                "mileage": 14.8,
+                "suspension_type": "Automatic"
+            }
+        ],
+        "images": [
+            "https://i.ibb.co/943C5Nq/Honda-Civic1.jpg",
+            "https://i.ibb.co/Ns3k508/Honda-Civic2.jpg",
+            "https://i.ibb.co/tQ1hB0C/Honda-Civic3.jpg"
+        ],
+        "price": 32000,
+        "edition": 2019
+    },
+    {
+        "model": "Ford Explorer",
+        "features": [
+            {
+                "capacity": 7,
+                "fuel_type": "Gasoline",
+                "mileage": 10.5,
+                "suspension_type": "Automatic"
+            }
+        ],
+        "images": [
+            "https://i.ibb.co/f1HQVDg/Ford-Explorer-1.jpg",
+            "https://i.ibb.co/p1v0CJL/Ford-Explorer2.jpg",
+            "https://i.ibb.co/4m1Zscj/Ford-Explorer3.jpg"
+        ],
+        "price": 45000,
+        "edition": 2020
+    },
+    {
+        "model": "Nissan Altima",
+        "features": [
+            {
+                "capacity": 5,
+                "fuel_type": "Petrol",
+                "mileage": 13.5,
+                "suspension_type": "Manual"
+            }
+        ],
+        "images": [
+            "https://i.ibb.co/zfQBtXn/Nissan-Altima1.jpg",
+            "https://i.ibb.co/4YHc70c/Nissan-Altima2.jpg",
+            "https://i.ibb.co/x2SVBB9/Nissan-Altima3.jpg"
+        ],
+        "price": 30000,
+        "edition": 2020
+    },
+    {
+        "model": "Chevrolet Silverado",
+        "features": [
+            {
+                "capacity": 6,
+                "fuel_type": "Diesel",
+                "mileage": 9.5,
+                "suspension_type": "Automatic"
+            }
+        ],
+        "images": [
+            "https://i.ibb.co/9hkWbyC/Chevrolet-Silverado1.jpg",
+            "https://i.ibb.co/JyNJqDV/Chevrolet-Silverado2.jpg",
+            "https://i.ibb.co/TcyzWZy/Chevrolet-Silverado3.jpg"
+        ],
+        "price": 40000,
+        "edition": 2021
+    },
+    {
+        "model": "BMW 3 Series",
+        "features": [
+            {
+                "capacity": 5,
+                "fuel_type": "Petrol",
+                "mileage": 12.6,
+                "suspension_type": "Automatic"
+            }
+        ],
+        "images": [
+            "https://i.ibb.co/9ZsKx6Z/BMW3-Series1.jpg",
+            "https://i.ibb.co/kykcxQb/BMW3-Series2.jpg",
+            "https://i.ibb.co/4YLh3Qp/BMW3-Series3.jpg"
+        ],
+        "price": 55000,
+        "edition": 2019
+    }
+]
